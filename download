@@ -1,0 +1,13 @@
+# 备份与临时文件 / backups and temp
+*.orig-nosaslr
+_preview.txt
+*.log
+
+# Office 临时文件 / Office temp
+~$*
+*.tmp
+
+# 系统 / OS
+Thumbs.db
+desktop.ini
+.DS_Store

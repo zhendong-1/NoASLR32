@@ -1,0 +1,52 @@
+NoASLR32 Toolkit —— 著作权与许可声明
+Copyright & License Notice
+=====================================
+
+作者 / Author      : 震东1（zhendong1）
+著作权 / Copyright : © 2026 震东1（zhendong1）
+
+许可 / License
+-------------
+本项目以 MIT 许可发布，全文见 LICENSE。
+This project is released under the MIT License; see LICENSE for the full text.
+
+在 MIT 许可下你可以自由使用、修改、再分发，包括商业用途，条件是：
+保留本声明以及源代码文件头部的版权信息。
+You may use, modify and redistribute it freely, including commercially, provided that
+this notice and the copyright headers in the source files are retained.
+
+署名 / Attribution
+------------------
+引用、二次分发或基于本工具二次开发时，请保留以下署名：
+When citing, redistributing, or building upon this toolkit, keep the following attribution:
+
+    震东1（zhendong1）— NoASLR32 Toolkit
+    https://github.com/zhendong1/NoASLR32-Toolkit
+
+范围 / Scope
+-----------
+本声明覆盖工具包内全部内容，包括但不限于：
+This notice covers everything in the toolkit, including but not limited to:
+
+    · Fix-PE32-ASLR.ps1
+    · Test-PE32Loader.ps1
+    · Disable-ImageASLR.ps1
+    · README.md / CONTRIBUTING.md / CHANGELOG.md
+    · docs/ 下的全部文档（含中英双语教程）
+
+其中的代码、文字、表格、排版均受著作权法保护。
+All code, text, tables and layout are protected by copyright law.
+
+不在许可范围内 / Not granted
+----------------------------
+MIT 许可不授予商标使用权。未经书面许可，不得使用作者名义为衍生产品背书。
+The MIT License does not grant trademark rights. Do not use the author's name to
+endorse derived products without written permission.
+
+说明 / Note
+-----------
+本工具仅修改 PE 头中的一个标志位，不修改程序逻辑；相关风险请自行评估。
+This tool changes one flag bit in the PE header and does not alter program logic.
+Assess the risks yourself.
+
+© 2026 震东1（zhendong1）
